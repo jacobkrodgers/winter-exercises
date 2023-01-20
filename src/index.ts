@@ -2,7 +2,7 @@
  *  index.ts
  *  Project: First Exercise
  *
- *  Author: Jaob Rodgers
+ *  Author: Jacob Rodgers
  *  Created on: Jan 19, 2023
  */
 
